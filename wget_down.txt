@@ -1,0 +1,43 @@
+#!/bin/bash
+
+# https://www.wordproject.org/bibles/audio/13_cantonese/
+
+wget   http://wpaorg.wordproject.com/bibles/app/audio/13_1.zip
+wget   http://wpaorg.wordproject.com/bibles/app/audio/13_2.zip
+wget   http://wpaorg.wordproject.com/bibles/app/audio/13_3.zip
+wget   http://wpaorg.wordproject.com/bibles/app/audio/13_4.zip
+wget   http://wpaorg.wordproject.com/bibles/app/audio/13_5.zip
+wget   http://wpaorg.wordproject.com/bibles/app/audio/13_6.zip
+wget   http://wpaorg.wordproject.com/bibles/app/audio/13_7.zip
+wget   http://wpaorg.wordproject.com/bibles/app/audio/13_8.zip
+wget   http://wpaorg.wordproject.com/bibles/app/audio/13_9.zip
+wget   http://wpaorg.wordproject.com/bibles/app/audio/13_10.zip
+wget   http://wpaorg.wordproject.com/bibles/app/audio/13_11.zip
+wget   http://wpaorg.wordproject.com/bibles/app/audio/13_12.zip
+wget   http://wpaorg.wordproject.com/bibles/app/audio/13_13.zip
+wget   http://wpaorg.wordproject.com/bibles/app/audio/13_14.zip
+wget   http://wpaorg.wordproject.com/bibles/app/audio/13_15.zip
+wget   http://wpaorg.wordproject.com/bibles/app/audio/13_16.zip
+wget   http://wpaorg.wordproject.com/bibles/app/audio/13_17.zip
+wget   http://wpaorg.wordproject.com/bibles/app/audio/13_18.zip
+wget   http://wpaorg.wordproject.com/bibles/app/audio/13_19.zip
+wget   http://wpaorg.wordproject.com/bibles/app/audio/13_20.zip
+wget   http://wpaorg.wordproject.com/bibles/app/audio/13_21.zip
+wget   http://wpaorg.wordproject.com/bibles/app/audio/13_22.zip
+wget   http://wpaorg.wordproject.com/bibles/app/audio/13_23.zip
+wget   http://wpaorg.wordproject.com/bibles/app/audio/13_24.zip
+wget   http://wpaorg.wordproject.com/bibles/app/audio/13_25.zip
+wget   http://wpaorg.wordproject.com/bibles/app/audio/13_26.zip
+wget   http://wpaorg.wordproject.com/bibles/app/audio/13_27.zip
+wget   http://wpaorg.wordproject.com/bibles/app/audio/13_28.zip
+wget   http://wpaorg.wordproject.com/bibles/app/audio/13_29.zip
+wget   http://wpaorg.wordproject.com/bibles/app/audio/13_30.zip
+wget   http://wpaorg.wordproject.com/bibles/app/audio/13_31.zip
+wget   http://wpaorg.wordproject.com/bibles/app/audio/13_32.zip
+wget   http://wpaorg.wordproject.com/bibles/app/audio/13_33.zip
+wget   http://wpaorg.wordproject.com/bibles/app/audio/13_34.zip
+wget   http://wpaorg.wordproject.com/bibles/app/audio/13_35.zip
+wget   http://wpaorg.wordproject.com/bibles/app/audio/13_36.zip
+wget   http://wpaorg.wordproject.com/bibles/app/audio/13_37.zip
+wget   http://wpaorg.wordproject.com/bibles/app/audio/13_38.zip
+wget   http://wpaorg.wordproject.com/bibles/app/audio/13_39.zip
